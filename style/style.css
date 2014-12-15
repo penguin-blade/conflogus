@@ -8,7 +8,7 @@ body {
   	  linear-gradient(
       rgba(0, 0, 0, 0.4), 
       rgba(0, 0, 0, 0.4)
-    ), url(http://localhost/siti_vari_php/conflogus/images/bgs/penguins.jpg) no-repeat center center fixed;  
+    ), url(../images/bgs/penguins.jpg) no-repeat center center fixed;  
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
